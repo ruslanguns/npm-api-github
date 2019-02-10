@@ -1,5 +1,5 @@
 {
-    "name": "proj-1-api-github",
+    "name": "api4github",
     "version": "1.0.0",
     "description": "Acceso a la API de GitHub de un usuario",
     "main": "index.js",
